@@ -5,7 +5,7 @@ import OpenAI from "./OpenAI";
 class Brainiall extends OpenAI {
   static providerName = "brainiall";
   static defaultOptions: Partial<LLMOptions> = {
-    apiBase: "https://api.brainiall.com/v1/",
+    apiBase: "https://apim-ai-apis.azure-api.net/v1/",
     useLegacyCompletionsEndpoint: false,
   };
 }
