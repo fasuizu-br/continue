@@ -3230,7 +3230,7 @@ export const models: { [key: string]: ModelPackage } = {
   brainiallClaudeOpus46: {
     title: "Claude Opus 4.6",
     description:
-      "Anthropic's most capable model with 200K context, available via Brainiall gateway.",
+      "Anthropic's most capable model with 200K context, available via Brainiall.",
     refUrl: "https://app.brainiall.com",
     params: {
       title: "Claude Opus 4.6",
